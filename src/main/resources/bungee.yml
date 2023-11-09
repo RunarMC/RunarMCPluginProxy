@@ -1,0 +1,3 @@
+name: RunarMCPluginProxy
+version: '${version}'
+main: net.runarmc.runarmcpluginproxy.RunarMCPluginProxy
